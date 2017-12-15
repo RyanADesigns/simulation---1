@@ -1,0 +1,1 @@
+UPDATE bins WHERE bin_id = NOT NULL
